@@ -1,0 +1,9 @@
+name: cnn-tf
+channels:
+  - conda-forge
+dependencies:
+  - numpy=1.20.3
+  - python=3.9.7
+  - pip
+  - scikit-image=0.19.1
+  - matplotlib=3.5.1
