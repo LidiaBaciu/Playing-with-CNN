@@ -25,6 +25,8 @@ Code available in the book: "Practical Computer Vision Applications Using Deep L
 
 Code available also in the <a href="https://www.tensorflow.org/tutorials/quickstart/advanced">Tensorflow </a> documentation.
 
+A cheatsheet to CNNs can be found on <a href="https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks">Stanford's website</a>.
+
 
 ## Setting up the environment
 In the current directory, execute the following commands in order to set up the conda environment:
